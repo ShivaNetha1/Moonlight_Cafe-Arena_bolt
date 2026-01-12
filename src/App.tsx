@@ -384,7 +384,7 @@ const MoonlightCafe = () => {
         <div className="container mx-auto px-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-6">
             <div className="text-center md:text-left">
-              <h3 className="text-2xl font-bold text-yellow-500 mb-2">Moonlight Cafe Arena</h3>
+              <h3 className="text-2xl font-bold text-yellow-500 mb-2">Moonlight Cafe & Arena</h3>
               <p className="text-gray-500 text-sm">Sadasivpet's Premium Hangout Spot</p>
             </div>
 
